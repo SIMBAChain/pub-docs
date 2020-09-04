@@ -2,8 +2,6 @@
   "@context": {
     "@version": 1.1,
     "@protected": true,
-    "name": "http://schema.org/name",
-    "description": "http:/schema.org/description",
     "certificate": "https://w3id.org/blockcerts/v2"
   }
 }
