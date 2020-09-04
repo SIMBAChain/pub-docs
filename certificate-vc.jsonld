@@ -2,8 +2,6 @@
   "@context": {
     "@version": 1.1,
     "@protected": true,
-    "certificate": {
-      "@id": "https://www.blockcerts.org/schema/2.0/context.json"  
-    }
+    "certificate": "https://www.blockcerts.org/schema/2.0/context.json"
   }
 }
