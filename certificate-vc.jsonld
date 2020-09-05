@@ -9,23 +9,19 @@
     "schema": "http://schema.org/",
     "sec": "https://w3id.org/security#",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
-    
     "Certificate": "sb:Certificate",
-    
     "MerkleProof2017": "sec:MerkleProof2017",
-    
     "RecipientProfile": "bc:RecipientProfile",
     "SignatureLine": "bc:SignatureLine",
     "MerkleProofVerification2017": "bc:MerkleProofVerification2017",
-    
     "recipientProfile": "bc:recipientProfile",
     "signatureLines": "bc:signatureLines",
-    "introductionUrl": { "@id": "bc:introductionUrl", "@type": "@id" },
-    
+    "introductionUrl": {
+      "@id": "bc:introductionUrl",
+      "@type": "@id"
+    },
     "subtitle": "bc:subtitle",
-    
     "jobTitle": "schema:jobTitle",
-
     "expires": {
       "@id": "sec:expiration",
       "@type": "xsd:dateTime"
@@ -44,7 +40,6 @@
       "@id": "sec:publicKey",
       "@type": "@id"
     },
-
     "BTCOpReturn": "cp:BTCOpReturn",
     "targetHash": "cp:targetHash",
     "merkleRoot": "cp:merkleRoot",
@@ -68,5 +63,4 @@
       "obi:validationSchema": "https://w3id.org/blockcerts/schema/2.0/merkleProof2017Schema.json"
     }
   ]
-  }
 }
