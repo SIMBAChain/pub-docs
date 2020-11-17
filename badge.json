@@ -1,5 +1,5 @@
 {
-  "id": "urn:uuid:f6d8ad08-4180-4a0d-9ba5-a6d312634eab",
+  "id": "urn:uuid:22b9c8a3-dc5b-444c-a44b-ff8589b68625",
   "type": "Assertion",
   "badge": {
     "id": "urn:uuid:065DC095-FF43-4DE8-8D4C-8500BCDC88CD",
@@ -29,7 +29,7 @@
       }
     }
   ],
-  "issuedOn": "2020-09-30T17:04:26.621583+00:00",
+  "issuedOn": "2020-09-30T17:19:53.481333+00:00",
   "recipient": {
     "type": "email",
     "hashed": false,
@@ -45,11 +45,11 @@
       {
         "type": "ETHData",
         "chain": "ganache",
-        "sourceId": "0xe981ba32455dbfefe2a5748bccf87e6fe18867623c19a5f5a43c58005f2021c1"
+        "sourceId": "0x8a6fb6d2decc23995d9d890cf145d820d89b95fa9be54ed12011575434f2975b"
       }
     ],
-    "merkleRoot": "9d2d07d76df0f7d5a27e9b4324dbb1faa6babd229e99ef78a17a301b9a0a2349",
-    "targetHash": "9d2d07d76df0f7d5a27e9b4324dbb1faa6babd229e99ef78a17a301b9a0a2349"
+    "merkleRoot": "45918050127ac6116abab78aab86d8b39e5083a2e4283300944c3200beb97f16",
+    "targetHash": "45918050127ac6116abab78aab86d8b39e5083a2e4283300944c3200beb97f16"
   },
   "displayHtml": "<div>must be smart</div>",
   "verification": {
@@ -57,7 +57,7 @@
       "MerkleProofVerification2017",
       "Extension"
     ],
-    "publicKey": "ecdsa-koblitz-pubkey:0xd4039eb67cbb36429ad9dd30187b94f6a5122215"
+    "publicKey": "ecdsa-koblitz-pubkey:0xa508dD875f10C33C52a8abb20E16fc68E981F186"
   },
   "signatureLines": [
     {
