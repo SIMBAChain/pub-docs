@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "https://simbachain.github.io/pub-docs/revocation-list-testnet.json",
+  "type": "RevocationList",
+  "issuer": "https://simbachain.github.io/pub-docs/issuer-2.json",
+  "revokedAssertions": []
+}
