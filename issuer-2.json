@@ -14,6 +14,6 @@
       "created": "2020-04-18T14:35:56.974985+00:00"
     }
   ],
-  "revocationList": "https://simbachain.github.io/pub-docs/revocation-list-testnet.json",
+  "revocationList": "https://simbachain.github.io/pub-docs/issuer-2-rev-list.json",
   "type": "Profile"
 }
