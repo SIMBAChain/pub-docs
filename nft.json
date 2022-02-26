@@ -6,6 +6,7 @@
     "sec": "https://w3id.org/security#",
     "nft": "https://simbachain.github.io/pub-docs/nft.json",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "canonicalizationAlgorithm": "sec:canonicalizationAlgorithm",
     "tokenId": "schema:identifier",
     "name": "schema:name",
     "description": "schema:description",
