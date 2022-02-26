@@ -1,8 +1,7 @@
 {
   "@context": {
-    "id": "@id",
+    "tokenId": "@id",
     "type": "@type",
-    "bc": "https://w3id.org/blockcerts#",
     "schema": "https://schema.org/",
     "sec": "https://w3id.org/security#",
     "nft": "https://simbachain.github.io/pub-docs/nft.json",
