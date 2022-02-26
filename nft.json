@@ -11,6 +11,6 @@
     "description": "schema:description",
     "multiHash": "sec:Digest",
     "contentHash": "sec:Digest",
-    "token": {"@id": "nft:Token", "@type": "@id"}
+    "Token": {"@id": "nft:Token", "@type": "@id"}
   }
 }
