@@ -12,6 +12,8 @@
     "description": "schema:description",
     "metadataHash": "sec:Digest",
     "mediaHash": "sec:Digest",
+    "metadataMultihash": "schema:Text",
+    "mediaMultihash": "schema:Text",
     "metadataUrl": "schema:URL",
     "mediaUrl": "schema:URL",
     "Token": {"@id": "nft:Token", "@type": "@id"}
