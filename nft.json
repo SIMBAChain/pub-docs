@@ -1,6 +1,6 @@
 {
   "@context": {
-    "tokenId": "@id",
+    "id": "@id",
     "type": "@type",
     "schema": "https://schema.org/",
     "sec": "https://w3id.org/security#",
