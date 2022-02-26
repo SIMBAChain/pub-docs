@@ -9,8 +9,10 @@
     "tokenId": "schema:identifier",
     "name": "schema:name",
     "description": "schema:description",
-    "multiHash": "sec:Digest",
-    "contentHash": "sec:Digest",
+    "metadataHash": "sec:Digest",
+    "mediaHash": "sec:Digest",
+    "metadataUrl": "schema:URL",
+    "mediaUrl": "schema:URL",
     "Token": {"@id": "nft:Token", "@type": "@id"}
   }
 }
