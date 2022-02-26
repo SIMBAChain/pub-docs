@@ -1,0 +1,16 @@
+{
+  "@context": {
+    "id": "@id",
+    "type": "@type",
+    "bc": "https://w3id.org/blockcerts#",
+    "schema": "https://schema.org/",
+    "sec": "https://w3id.org/security#",
+    "nft": "https://simbachain.github.io/pub-docs/nft.json",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "name": "schema:name",
+    "description": "schema:description",
+    "multiHash": "sec:Digest",
+    "contentHash": "sec:Digest",
+    "token": {"@id": "nft:Token", "@type": "@id"}
+  }
+}
