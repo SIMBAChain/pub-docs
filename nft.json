@@ -14,6 +14,6 @@
     "assetHash": {"@id": "sec:Digest", "@type": "@id"},
     "assetMultihash": {"@id": "schema:Text"},
     "assetUrl": {"@id": "schema:URL"},
-    "Token": {"@id": "nft:Token", "@type": "@id"}
+    "Token": {"@id": "Token", "@type": "@id"}
   }
 }
