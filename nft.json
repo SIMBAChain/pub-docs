@@ -8,7 +8,7 @@
     "xsd": "http://www.w3.org/2001/XMLSchema#",
     "metadataCanonicalization": {"@id": "sec:canonicalizationAlgorithm"},
     "tokenId": {"@id": "schema:identifier"},
-    "tokenType": {"@id": "schema:Text"},
+    "tokenType": {"@id": "nft:tokenType", "@type": "schema:Text"},
     "name": {"@id": "schema:name"},
     "description": {"@id": "schema:description"},
     "assetHash": {"@id": "sec:Digest", "@type": "@id"},
