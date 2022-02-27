@@ -12,7 +12,7 @@
     "name": {"@id": "schema:name"},
     "description": {"@id": "schema:description"},
     "assetHash": {"@id": "sec:Digest", "@type": "@id"},
-    "assetMultihash": {"@id": "schema:Text", "@type": "@id"},
+    "assetMultihash": {"@id": "schema:Text"},
     "assetUrl": {"@id": "schema:URL"},
     "Token": {"@id": "nft:Token", "@type": "@id"}
   }
