@@ -6,14 +6,14 @@
     "sec": "https://w3id.org/security#",
     "nft": "https://simbachain.github.io/pub-docs/nft.json",
     "xsd": "http://www.w3.org/2001/XMLSchema#",
-    "metadataCanonicalization": "sec:canonicalizationAlgorithm",
-    "tokenId": "schema:identifier",
+    "metadataCanonicalization": {"@id": "sec:canonicalizationAlgorithm", "@type": "@id"},
+    "tokenId": {"@id": "schema:identifier", "@type": "@id"},
     "tokenType": {"@id": "schema:Text", "@type": "@id"},
     "name": "schema:name",
     "description": "schema:description",
-    "mediaHash": "sec:Digest",
-    "mediaMultihash": "schema:Text",
-    "mediaUrl": "schema:URL",
+    "mediaHash": {"@id": "sec:Digest", "@type": "@id"},
+    "mediaMultihash": {"@id": "schema:Text", "@type": "@id"},
+    "mediaUrl": {"@id": "schema:URL", "@type": "@id"},
     "Token": {"@id": "nft:Token", "@type": "@id"}
   }
 }
