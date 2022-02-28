@@ -14,7 +14,8 @@
     "assetHash": {"@id": "nft:assetHash", "@type": "sec:Digest"},
     "assetMultihash": {"@id": "nft:assetMultihash", "@type": "schema:Text"},
     "assetUrl": {"@id": "nft:assetUrl", "@type": "schema:URL"},
-    "properties": {"@container" : "@list", "@type": "schema:PropertyValue", "@id": "nft:properties"},
+    "Property": {"@id": "nft:Property", "@type": "schema:PropertyValue"},
+    "properties": {"@container" : "@set", "@type": "nft:Property", "@id": "nft:properties"},
     "Token": {"@id": "nft:Token", "@type": "@id"}
   }
 }
